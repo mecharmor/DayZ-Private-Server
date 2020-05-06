@@ -15,7 +15,8 @@
 	* Edit `update_server.bat`'s variables to match your settings
 		1. Set `STEAM_DIR` to the directory you created in step 1.
 		2. Set `STEAM_USERNAME` and `STEAM_PASSWORD` to your Steam login with [ArmA 2: Combined Operations](http://store.steampowered.com/sub/4639)
-4. Run `update_server.bat` and wait for it to complete. This will download ArmA2 and ArmA2: Operation Arrowhead into the same directory to make ArmA2: Combined Operations.
+4. open the `update_server.bat` in visual studio code or text editor and change the +app_update attribute for Arma 2 from 33910 to 33900. steam updated their id's for this game.
+5. Run `update_server.bat` and wait for it to complete. This will download ArmA2 and ArmA2: Operation Arrowhead into the same directory to make ArmA2: Combined Operations.
 ### Install - DayZMod Server
 1. Download the latest stable release of [this server pack](https://github.com/Pwnoz0r/DayZ-Private-Server/releases) or the [latest development version](https://github.com/Pwnoz0r/DayZ-Private-Server/archive/master.zip).
 2. Extract the server pack you have just downloaded into the directory you created in the previous step (`C:\Servers\DayZ1`).
