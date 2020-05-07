@@ -122,6 +122,7 @@ Hour = 8
 ## Start Server (Batch - Windows)
 1. Download the [following batch file](https://rainier.tech/games/dayzmod/start_server.bat) and extract it into your `STEAM_DIR` you set up earlier.
 2. Run the batch file and your server should start right up and become joinable.
+3. if you get an error that states a missing `dll` or missing `X3DAudio1_6.dll` then you need to install DirectX
     
 ## Community
 Join the community! Remember to visit [OpenDayZ](http://opendayz.net) where you can suggest new ideas and help out other community members.
