@@ -7,6 +7,19 @@
 	* [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 * Alternativly you can download [Visual Studio 2015 Community Edition](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) which will install any prerequisites you will ever need.
 
+## Table of Contents
+* [Installation Instructions](#installation-instructions)
+	* [Install - ArmA2: Combined Operations](#install---arma2-combined-operations)
+	* [Install - DayZMod Server](#install---dayzmod-server)
+	* [Install - MySQL Server (Windows)](#install---mysql-server-windows)
+	* [Install - MySQL Server (Linux)](#install---mysql-server-linux)
+* [Configure - `HiveExt.ini`](#configure---hiveextini)
+	* [MySQL Settings](#mysql-settings)
+	* [Time Config](#time-config)
+* [Start Server (Batch - Windows)](#start-server-batch---windows)
+* [Community](#community)
+	* [Author](#author)
+
 ## Installation Instructions
 ### Install - ArmA2: Combined Operations
 1. Create a path with no spaces somewhere near the root of your drive. (Example: `C:\Servers\DayZ1`)
